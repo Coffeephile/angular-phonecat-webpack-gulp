@@ -1,4 +1,4 @@
-#Step-13 Webpack version (simple)
+#Step-14 Webpack version (simple)
 
 ##Setup
 `npm install` (for adding webpack)
