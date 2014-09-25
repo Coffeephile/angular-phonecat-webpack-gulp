@@ -1,6 +1,7 @@
 'use strict';
 
 /* App Module */
+var phonecatControllers = angular.module('phonecatControllers', []);
 
 var phonecatApp = angular.module('phonecatApp', [
   'ngRoute',
