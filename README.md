@@ -1,13 +1,13 @@
-#Extend version of the Angular Phonecat tutorial with added steps to include [webpack](webpack.github.io) and [gulp](gulpjs.com)
+#Extend version of the Angular Phonecat tutorial with added steps to include [webpack](http://webpack.github.io) and [gulp](http://gulpjs.com)
 
-I created this fork because I didn't know how to split up an Angular project in a nice way. I used [RequireJS](requirejs.org) [before](https://twitter.com/escapedcat/status/433160981426880512), but it always felt to complicated in a way.
+I created this fork because I didn't know how to split up an Angular project in a nice way. I used [RequireJS](http://requirejs.org) [before](https://twitter.com/escapedcat/status/433160981426880512), but it always felt to complicated in a way.
 
 I tried a cleaner approach in 3 steps:
 1. Just splitting files
-2. Adding [webpack](webpack.github.io) to combine splitted files
-3. Utilizing [gulp](gulpjs.com) to create a uglified build-file
+2. Adding [webpack](http://webpack.github.io) to combine splitted files
+3. Utilizing [gulp](http://gulpjs.com) to create a uglified build-file
 
-I'm still not sure if this is the way to go, but so far it's working out. If you discover this and you have an opinion or feedback on this I'm more than happy to listen to it. [Open an issue](https://github.com/escapedcat/angular-phonecat-webpack-gulp/issues/new) or [send me a tweet](https://github.com/escapedcat/angular-phonecat-webpack-gulp/issues/new).
+I'm still not sure if this is the way to go, but so far it's working out. If you discover this and you have an opinion or feedback on this I'm more than happy to listen to it. [Open an issue](https://github.com/escapedcat/angular-phonecat-webpack-gulp/issues/new) or [send me a tweet](https://twitter.com/escapedcat).
 
 
 
