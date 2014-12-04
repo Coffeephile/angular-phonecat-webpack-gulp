@@ -1,7 +1,7 @@
 #Step-14 Webpack version (simple)
 
 ##Setup
-`npm install` (for adding webpack)
+`sudo npm install -g webpack` (for adding webpack globally)
 
 ##Development workflow
 `webpack ./app/js/main.js ./app/js/bundle/bundle.js --progress --colors -d --watch`
