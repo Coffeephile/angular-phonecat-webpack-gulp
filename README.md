@@ -23,7 +23,7 @@ Only the `controllers.js` file is split into two seperated controller files.
 ##[Step-14 Webpack version (simple)](https://github.com/escapedcat/angular-phonecat-webpack-gulp/tree/step-14)
 
 ###Setup
-`npm install` (for adding webpack)
+`npm install -g webpack` (for adding webpack)
 
 ###Development workflow
 `webpack ./app/js/main.js ./app/js/bundle/bundle.js --progress --colors -d --watch`
@@ -40,9 +40,9 @@ Every change of the JavaScript files will be watched and Webpack rebuilds the bu
 `index.html` is modified to use the build-file from the dist folder!
 
 ###Setup
-`npm install` (for adding webpack)
+`npm install -g webpack` (for adding webpack)
 
-###Development workflow
+###Development workflow (not needed in this step, cause this only adds gulp to show how a simple build works; see next section)
 `webpack ./app/js/main.js ./app/js/bundle/bundle.js --progress --colors -d --watch`
 
 This creates the bundle.js and the sourcemap-file.
